@@ -152,6 +152,6 @@ classDiagram
 ![Diagrama de Fluxo](documentation_img/Diagram_Fluxo_3_Livro_Receitas.png)
 
 
-</details># MyRecipeBook
+</details>
 
-[Protótipos no Figma](https://www.figma.com/team_invite/redeem/yaBQQKTzeq6EyImiiy6YFq)
+[Protótipos no Figma](https://www.figma.com/design/FDwebPRgBJIBdVcXLWyhG5/MyRecipeBook?m=auto&t=IP4AiYEfyHAjkNTz-1)
