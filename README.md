@@ -162,8 +162,8 @@ classDiagram
 
 ## Média Fidelidade | Mid-Fidelity
 
-![Baixa Fidelidade](documentation_img/prototypes/mid-fidelity.png)
+![Média Fidelidade](documentation_img/prototypes/mid-fidelity.png)
 
 ## Alta Fidelidade | High-Fidelity
 
-![Baixa Fidelidade](documentation_img/prototypes/high-fidelity.png)
+![Alta Fidelidade](documentation_img/prototypes/high-fidelity.png)
